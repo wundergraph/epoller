@@ -1,4 +1,4 @@
-module github.com/smallnest/epoller
+module github.com/wundergraph/epoller
 
 go 1.18
 
