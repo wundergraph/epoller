@@ -1,5 +1,5 @@
 # epoller
-epoll implementation for connections in **Linux**, **MacOS** and **Windows**.
+epoll implementation for connections in **Linux**, **MacOS**.
 
 [![License](https://img.shields.io/:license-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![GoDoc](https://godoc.org/github.com/smallnest/epoller?status.png)](http://godoc.org/github.com/smallnest/epoller)  [![github actions](https://github.com/smallnest/epoller/actions/workflows/go.yml/badge.svg)](https://github.com/smallnest/epoller/actions) [![Go Report Card](https://goreportcard.com/badge/github.com/smallnest/epoller)](https://goreportcard.com/report/github.com/smallnest/epoller) [![coveralls](https://coveralls.io/repos/smallnest/epoller/badge.svg?branch=master&service=github)](https://coveralls.io/github/smallnest/epoller?branch=master) 
 

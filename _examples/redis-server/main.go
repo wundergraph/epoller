@@ -2,13 +2,13 @@ package main
 
 import (
 	"flag"
+	"github.com/smallnest/epoller"
 	"log"
 	"net"
 	"strconv"
 	"strings"
 	"sync"
 
-	"github.com/smallnest/epoller"
 	"github.com/smallnest/redcon"
 )
 
